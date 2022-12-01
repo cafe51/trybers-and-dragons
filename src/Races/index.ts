@@ -7,7 +7,6 @@ import Elf from './Elf';
 export default Race;
 
 export {
-  Race,
   Orc,
   Halfling,
   Dwarf,
